@@ -1,0 +1,8 @@
+{
+  
+  "host_map": [
+    "$.mage.whimforce.com => mage.whimforce.com",
+    "$.mage.whimforce.com => www.mage.whimforce.com"
+  ],
+"layers": ["mobile","tablet"]
+}
